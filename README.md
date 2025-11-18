@@ -5,5 +5,12 @@ I used Codespaces to start using a VM for free as I am using a Personal account 
 This is an alternative.
 
 Day 1
+
 Install Azure CLI
+
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+
+Verify if Azure CLI is Installed
+
+az --version
+
